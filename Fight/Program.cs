@@ -9,8 +9,6 @@ string fighter2 = Console.ReadLine();
 
 Random generator = new Random();
 
-int slumptal = generator.Next(100);
-
 while (TylerHp > 0 && BobHp > 0)
 {
     Console.WriteLine("\n----- ===== NY RUNDA ===== -----");
@@ -48,4 +46,3 @@ else
 
 
 Console.ReadKey();
-
