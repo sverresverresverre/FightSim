@@ -1,0 +1,14 @@
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\bin\Debug\net7.0\Fight.exe
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\bin\Debug\net7.0\Fight.deps.json
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\bin\Debug\net7.0\Fight.runtimeconfig.json
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\bin\Debug\net7.0\Fight.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\bin\Debug\net7.0\Fight.pdb
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\Fight.AssemblyInfoInputs.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\Fight.AssemblyInfo.cs
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\Fight.csproj.CoreCompileInputs.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\Fight.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\refint\Fight.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\Fight.pdb
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\Fight.genruntimeconfig.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\Fight\Fight\obj\Debug\net7.0\ref\Fight.dll
